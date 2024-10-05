@@ -37,7 +37,7 @@ a.social {
     --bg-img: url(../assets/icons/tiktok.svg);
 
     &:hover {
-      --bg-img: url(../assets/icons/discord-hover.svg);
+      --bg-img: url(../assets/icons/tiktok-hover.svg);
     }
   }
 
