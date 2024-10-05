@@ -53,7 +53,7 @@
     content: "";
     position: absolute;
     border-radius: inherit;
-    inset: 0.09375rem;
+    inset: 0.09999rem;
     background-color: var(--bg-color);
   }
   &::after {
@@ -78,6 +78,6 @@
 
 .btn-md {
   padding: 1rem 2rem;
-  font-size: var(--fs-lg);
+  font-size: var(--fs-md);
 }
 }
